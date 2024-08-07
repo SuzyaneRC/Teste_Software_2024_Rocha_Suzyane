@@ -1,5 +1,5 @@
-# Atividade01.Teste de Software -  2024.1
-Este repositório tem como objetivo armazenar artefatos produzidos na disciplina Atividade01.Teste de Software.
+# Teste de Software -  2024.1
+Este repositório tem como objetivo armazenar artefatos produzidos na disciplina Teste de Software.
 
 ### Atividade 01 - Testes Unitários e o Stack Overflow
 - Mockito
